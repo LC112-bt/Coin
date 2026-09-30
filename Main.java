@@ -6,3 +6,5 @@ System.out.println(penny.getState());
 penny.flip();
 System.out.println(penny.getState());
 
+}
+}
